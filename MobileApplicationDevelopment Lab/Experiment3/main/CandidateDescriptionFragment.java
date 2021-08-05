@@ -72,8 +72,8 @@ public class CandidateDescriptionFragment extends Fragment {
     }
 
     private int getStringId(String candidateName){
-        if(candidateName.equals("Mamatha")){
-            return R.string.Mamatha;
+        if(candidateName.equals("Divya")){
+            return R.string.Divya;
         }else if(candidateName.equals("Pravallika")){
             return R.string.Pravallika;
         }else if(candidateName.equals("Monika")){
